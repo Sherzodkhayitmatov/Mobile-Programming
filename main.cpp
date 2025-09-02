@@ -360,7 +360,7 @@ int main(int argc, char* argv[]){
     
     Question 12.1 - Exception handling implementation shown above
     Question 12.2
-        Try contains risky code, catch handles exceptions, finally (Java) always executes. C++ uses RAII - destructors automatically clean up resources.
+        Try contains risky code catch handles exceptions, finally (Java) always executes. C++ uses RAII - destructors automatically clean up resources.
     Question 12.3
         Java has checked exceptions (must be declared/handled) and unchecked exceptions (runtime). C++ doesn't distinguish in type system.
     Question 12.4
